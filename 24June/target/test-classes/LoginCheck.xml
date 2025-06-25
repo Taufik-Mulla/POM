@@ -1,0 +1,8 @@
+<suite name="AutomationSuite" parallel="false">
+  <test name="SampleTest">
+    <classes>
+     
+      <class name="com.testCase.TC_001_ValidLogin"/>
+    </classes>
+  </test>
+</suite>
